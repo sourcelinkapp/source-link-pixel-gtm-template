@@ -1,0 +1,5 @@
+homepage: 'https://sourcelink.app/'
+documentation: 'https://github.com/sourcelinkapp/source-link-pixel-gtm-template/blob/main/README.md'
+versions:
+  - sha: f47c791daae7f34eca737668193895f0ec061b90
+    changeNotes: Initial release.
